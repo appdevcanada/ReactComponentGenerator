@@ -1,6 +1,6 @@
 # React Component Generator
 
-AI-powered React component generator with live preview.
+AI-powered React component generator. Describe a UI in chat, Claude writes the JSX, and a sandboxed iframe instantly previews it. Built with Next.js, Tailwind CSS v4, and the Anthropic API.
 
 ## Prerequisites
 
