@@ -36,14 +36,14 @@ This command will:
 ### Development
 
 ```bash
-npm run dev
+npm run devturbo
 ```
 
 Open [http://localhost:3000](http://localhost:3000)
 
 ## Usage
 
-1. Sign up or continue as anonymous user
+1. Sign up or continue as an anonymous user
 2. Describe the React component you want to create in the chat
 3. View generated components in real-time preview
 4. Switch to Code view to see and edit the generated files
